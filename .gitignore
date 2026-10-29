@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Pytest
+.pytest_cache/
+
+# Test artifacts
+test-results/
+reports/
+screenshots/
+
+# Local environment
+.env
+
+project-structure.txt
+regression-*.txt
+*.bak
